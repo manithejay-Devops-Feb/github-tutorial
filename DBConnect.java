@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Reverted file
+=======
+>>>>>>> parent of 6c7f787 (updated DBConnect file)
 =======
 >>>>>>> parent of 6c7f787 (updated DBConnect file)
 Hello DBConnect.java
